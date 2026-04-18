@@ -18,10 +18,10 @@ AI Engineer, People Manager, and Content Creator. I build mobile & desktop tools
 
 ## Projects
 
-- 🇷🇺 [claude-in-mobile](https://github.com/AlexGladkov/claude-in-mobile) — MCP server for mobile, desktop, and browser automation. Android (ADB), iOS Simulator, Desktop (Compose Multiplatform), and Chrome;
-- 🇷🇺 [claude-code-agents](https://github.com/AlexGladkov/claude-code-agents) — Collection of specialized subagents for Claude Code;
-- 🇷🇺 [Spacie](https://github.com/AlexGladkov/Spacie) — Native macOS disk space analyzer for Apple Silicon. Sunburst/treemap visualization, duplicate finder, smart cleanup;
-- 🇷🇺 [VibeStudio](https://github.com/AlexGladkov/VibeStudio) — macOS terminal-first IDE for developers who live in the command line;
+- 🌍 [claude-in-mobile](https://github.com/AlexGladkov/claude-in-mobile) — MCP server for mobile, desktop, and browser automation. Android (ADB), iOS Simulator, Desktop (Compose Multiplatform), and Chrome;
+- 🌍 [claude-code-agents](https://github.com/AlexGladkov/claude-code-agents) — Collection of specialized subagents for Claude Code;
+- 🌍 [Spacie](https://github.com/AlexGladkov/Spacie) — Native macOS disk space analyzer for Apple Silicon. Sunburst/treemap visualization, duplicate finder, smart cleanup;
+- 🌍 [VibeStudio](https://github.com/AlexGladkov/VibeStudio) — macOS terminal-first IDE for developers who live in the command line;
 
 ---
 
