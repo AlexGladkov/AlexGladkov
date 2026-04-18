@@ -1,4 +1,4 @@
-# Hi there 👋
+# About Me
 
 AI Engineer, People Manager, and Content Creator. I build mobile & desktop tools, experiment with AI agents, and share what I learn through YouTube and Telegram.
 
