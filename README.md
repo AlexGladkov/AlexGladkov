@@ -4,9 +4,9 @@ AI Engineer, People Manager, and Content Creator. I build mobile & desktop tools
 
 ## Tech Stack
 
-- 🇷🇺 **Mobile** — Kotlin, Kotlin Multiplatform, Compose Multiplatform, SwiftUI, Android, iOS;
-- 🇷🇺 **AI / Agents** — LLM integrations, Claude, MCP servers, AI-powered dev tools;
-- 🇷🇺 **Dev Tools** — macOS utilities, terminal tools, CLI apps (Swift, Kotlin);
+- **Mobile** — Kotlin, Kotlin Multiplatform, Compose Multiplatform, SwiftUI, Android, iOS;
+- **AI / Agents** — LLM integrations, Claude, MCP servers, AI-powered dev tools;
+- **Dev Tools** — macOS utilities, terminal tools, CLI apps (Swift, Kotlin);
 
 ---
 
