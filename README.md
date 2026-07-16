@@ -8,6 +8,8 @@ AI Engineer, People Manager, and Content Creator. I build mobile & desktop tools
 - **AI / Agents** — LLM integrations, Claude, MCP servers, AI-powered dev tools;
 - **Dev Tools** — macOS utilities, terminal tools, CLI apps (Swift, Kotlin);
 
+If you need AI SDLC consulting for your company - feel free to contact with me by this email - mobiledevelopercourse@gmail.com
+
 ---
 
 ## Talks
